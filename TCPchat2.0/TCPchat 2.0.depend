@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1572483240 source:c:\users\user\desktop\nassim\projects\tcpchat 2.0\inputbox.cpp
+	<iostream>
+	<string>
+	<SFML/Graphics.hpp>
+	"Inputbox.h"
+
+1572472769 c:\users\user\desktop\nassim\projects\tcpchat 2.0\inputbox.h
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+
+1572552677 source:c:\users\user\desktop\nassim\projects\tcpchat 2.0\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Network.hpp>
+	<vector>
+	"Inputbox.h"
+	"Button.h"
+	"Msgbox.h"
+
+1572549852 source:c:\users\user\desktop\nassim\projects\tcpchat 2.0\button.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Button.h"
+
+1572549806 c:\users\user\desktop\nassim\projects\tcpchat 2.0\button.h
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1572390973 source:c:\users\user\desktop\nassim\projects\tcpchat 2.0\msgbox.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Msgbox.h"
+
+1572390973 c:\users\user\desktop\nassim\projects\tcpchat 2.0\msgbox.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	<vector>
+
+1572549852 source:e:\tcpchat 2.0\button.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Button.h"
+
+1572549806 e:\tcpchat 2.0\button.h
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1572483240 source:e:\tcpchat 2.0\inputbox.cpp
+	<iostream>
+	<string>
+	<SFML/Graphics.hpp>
+	"Inputbox.h"
+
+1572472769 e:\tcpchat 2.0\inputbox.h
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+
+1572390973 source:e:\tcpchat 2.0\msgbox.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Msgbox.h"
+
+1572390973 e:\tcpchat 2.0\msgbox.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	<vector>
+

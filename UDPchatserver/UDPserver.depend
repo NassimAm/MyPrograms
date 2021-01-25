@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1560864565 source:c:\users\user\desktop\nassim\projects\udpserver\main.cpp
+	<iostream>
+	<SFML/Network.hpp>
+	<SFML/Graphics.hpp>
+	<string>
+	<conio.h>
+	<map>
+
